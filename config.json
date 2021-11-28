@@ -7,7 +7,7 @@
 	"maxLimit": 30,
 	"ownerList": ["601137078191@s.whatsapp.net", "601137078191@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://cdn-103.anonfiles.com/DaxfJ3X9u5/8a8df9b0-1638026972/CilokBotUpload.jpg",
+    "imgUrl": "./media/hutao.jpg",
 	"pack": "I'm Busy",
 	"author": "HuTao Bot"
 }
